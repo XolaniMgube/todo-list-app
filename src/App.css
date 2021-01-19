@@ -1,5 +1,10 @@
+/** @format */
+
+@import url("https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap");
+
 .App {
   text-align: center;
+  font-family: "Yusei Magic", sans-serif;
 }
 
 .App-logo {
