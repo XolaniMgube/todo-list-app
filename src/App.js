@@ -66,6 +66,10 @@ function App() {
       {todos.map((todo) => (
         <div key={todo.id}>
           <p>{todo.todo}</p>
+          <Button
+            color="secondary"
+            varient="contained"
+          >Delete</Button>
         </div>
       ))}
     </div>
